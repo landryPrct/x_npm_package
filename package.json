@@ -1,0 +1,22 @@
+{
+  "name": "lan-hab",
+  "version": "1.0.0",
+  "description": "fist-test-npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/landryPrct/x_npm_package.git"
+  },
+  "keywords": [
+    "lan"
+  ],
+  "author": "landry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/landryPrct/x_npm_package/issues"
+  },
+  "homepage": "https://github.com/landryPrct/x_npm_package#readme"
+}
